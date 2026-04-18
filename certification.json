@@ -1,0 +1,9 @@
+{
+  "status": "MASS_VALIDATED",
+  "n_simulations": 100,
+  "metrics": {
+    "mean_bias": 0.0465,
+    "stability_index": 0.84,
+    "max_bias": 0.1935
+  }
+}
